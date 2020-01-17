@@ -54,6 +54,8 @@ let s3 = s1 + s2
 console.log(s3)
 s1 += s2
 //TODO console.log the values of s1, s2, s3 after each statement
+console.log(s1)
+console.log(s2)
 console.log(s3)
 
 // test truthy/falsy using == for string, empty string, null and undefined
